@@ -66,42 +66,42 @@ I worked principally with PHP using Object-Oriented-Programing paradigm and Mode
 
 ### Projects
 * **From scratch**
- * #### [Tosty Design](http://tostydesign.com)
+ * [Tosty Design](http://tostydesign.com)
    * This is a Laravel 5.1 site with MariaDB and Redis for cache.
    * The UI was made with Vue JS and SASS.
- * #### [Basic Seats](http://www.basicseats.cr)
+ * [Basic Seats](http://www.basicseats.cr)
    * This is a Laravel project with CRUD for categories, products and users.
    * For the frontend I use [LESS](http://lesscss.org) and [jQuery](https://jquery.com)
- * #### [Constructora Piaco](http://www.constructorapiaco.com)
+ * [Constructora Piaco](http://www.constructorapiaco.com)
    * This is a simple site using [Silex](http://silex.sensiolabs.org), [Twig](http://twig.sensiolabs.org) and [SwiftMailer](http://swiftmailer.org).
    * For the frontend I use [SASS](http://sass-lang.com) and [jQuery](https://jquery.com)
- * #### [Sanchez y Carvajal](http://www.sanchez-carvajal.com)
+ * [Sanchez y Carvajal](http://www.sanchez-carvajal.com)
    * I use Laravel 4.2 for this site and MySQL.
- * #### [Grupo Colono](http://www.grupocolono.com)
+ * [Grupo Colono](http://www.grupocolono.com)
    * Is a simple catalog made with [Silex](http://silex.sensiolabs.org), [Twig](http://twig.sensiolabs.org) and [SwiftMailer](http://swiftmailer.org).
    * For the UI I was used Boostrap, jQuery, Slick and fancybox.
- * #### [Massey Ferguson CR](http://www.masseyfergusoncr.com)
+ * [Massey Ferguson CR](http://www.masseyfergusoncr.com)
    * Laravel 4.2
- * #### [Participant Energy](http://participantenergy.com)
+ * [Participant Energy](http://participantenergy.com)
    * This is a site multi language
    * Was made using [Silex](http://silex.sensiolabs.org), [Twig](http://twig.sensiolabs.org) and [SwiftMailer](http://swiftmailer.org).
    * For the UI I used SASS and jQuery.
- * #### [IS Corporación](http://www.iscr.com)
+ * [IS Corporación](http://www.iscr.com)
    * This is a simple site made with HTML and CSS.
    * Also I used [Koala](http://koala-app.com) for SASS compilation
- * #### [Grupo Romoi](http://www.gruporomoi.com/)
+ * [Grupo Romoi](http://www.gruporomoi.com/)
    * Catalog made with Laravel, Bootstrap and jQuery
 
 * **Private projects**
- * #### 3M Olimpiadas
+ * 3M Olimpiadas
    * The internal site for 3M sales department
- * #### Abbott
+ * Abbott
    * Simple apps for iPad for sellers with [Ionic](http://ionicframework.com)
 
 * **Team up**
- * #### [PGA Of America](https://www.pga.org)
+ * [PGA Of America](https://www.pga.org)
    * It is a [Drupal 7](https://www.drupal.org) Site hosted in [Pantheon](https://pantheon.io)
- * #### Bridgestone 5 llantas
+ * Bridgestone 5 llantas
    * Site of statistics with charts
- * #### [AppXI](http://goappxi.com)
+ * [AppXI](http://goappxi.com)
    * Administrative dashboard real time
