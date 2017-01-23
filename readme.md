@@ -67,7 +67,7 @@ I worked principally with PHP using Object-Oriented-Programing paradigm and Mode
 ### Projects
 Here are some the projects that I worked from the scratch:
 * [Tosty Design](http://tostydesign.com)
-  * This was a great project, the principal object was created a system to vote for designs, each designer should upload their designs and the voters could vote for them. This was made with Laravel 5.1, MariaDB like DB enginer and Redis for cache.
+  * This was a great project, the principal object was create a rating system for designs, each designer should uploaded their designs and the voters could vote for them. This was made with Laravel 5.1, MariaDB like DB enginer and Redis for cache.
   * The UI was made with VueJS and SASS.
 * [Basic Seats](http://www.basicseats.cr)
   * This is a simple but strong catalog system. This was made with Laravel to manage the users, products and their categories.
