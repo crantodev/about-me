@@ -2,7 +2,7 @@
 
 ### About Me
 
-I'm a Costa Rican developer a little bit crazy by JavaScript and their great tools.
+I'm Web Developer with 6+ years of expertise making simple and complex sites. I'm from [Costa Rica](https://en.wikipedia.org/wiki/Costa_Rica), it's a great country to live and work or just enjoy the nature.
 
 ### My PHP knowledge
 
@@ -65,43 +65,20 @@ I worked principally with PHP using Object-Oriented-Programing paradigm and Mode
 * [PSR-2](http://www.php-fig.org/psr/psr-2)
 
 ### Projects
-* **From scratch**
-  * [Tosty Design](http://tostydesign.com)
-    * This is a Laravel 5.1 site with MariaDB and Redis for cache.
-    * The UI was made with Vue JS and SASS.
-  * [Basic Seats](http://www.basicseats.cr)
-    * This is a Laravel project with CRUD for categories, products and users.
-    * For the frontend I use [LESS](http://lesscss.org) and [jQuery](https://jquery.com)
-  * [Constructora Piaco](http://www.constructorapiaco.com)
-    * This is a simple site using [Silex](http://silex.sensiolabs.org), [Twig](http://twig.sensiolabs.org) and [SwiftMailer](http://swiftmailer.org).
-    * For the frontend I use [SASS](http://sass-lang.com) and [jQuery](https://jquery.com)
-  * [Sanchez y Carvajal](http://www.sanchez-carvajal.com)
-    * I use Laravel 4.2 for this site and MySQL.
-  * [Grupo Colono](http://www.grupocolono.com)
-    * Is a simple catalog made with [Silex](http://silex.sensiolabs.org), [Twig](http://twig.sensiolabs.org) and [SwiftMailer](http://swiftmailer.org).
-    * For the UI I was used Boostrap, jQuery, Slick and fancybox.
-  * [Massey Ferguson CR](http://www.masseyfergusoncr.com)
-    * Laravel 4.2
-  * [Participant Energy](http://participantenergy.com)
-    * This is a site multi language
-    * Was made using [Silex](http://silex.sensiolabs.org), [Twig](http://twig.sensiolabs.org) and [SwiftMailer](http://swiftmailer.org).
-    * For the UI I used SASS and jQuery.
-  * [IS Corporación](http://www.iscr.com)
-    * This is a simple site made with HTML and CSS.
-    * Also I used [Koala](http://koala-app.com) for SASS compilation
-  * [Grupo Romoi](http://www.gruporomoi.com/)
-    * Catalog made with Laravel, Bootstrap and jQuery
-
-* **Private projects**
-  * 3M Olimpiadas
-    * The internal site for 3M sales department
-  * Abbott
-    * Simple apps for iPad for sellers with [Ionic](http://ionicframework.com)
-
-* **Team up**
-  * [PGA Of America](https://www.pga.org)
-    * This is a [Drupal 7](https://www.drupal.org) Site hosted in [Pantheon](https://pantheon.io)
-  * Bridgestone 5 llantas
-    * Site of statistics with charts
-  * [AppXI](http://goappxi.com)
-    * Administrative dashboard real time
+Here are some the projects that I worked from the scratch:
+* [Tosty Design](http://tostydesign.com)
+  * This was a great project, the principal object was created a system to vote for designs, each designer should upload their designs and the voters could vote for them. This was made with Laravel 5.1, MariaDB like DB enginer and Redis for cache.
+  * The UI was made with VueJS and SASS.
+* [Basic Seats](http://www.basicseats.cr)
+  * This is a simple but strong catalog system. This was made with Laravel to manage the users, products and their categories.
+  * The frontend was made using [LESS](http://lesscss.org) and [jQuery](https://jquery.com)
+* [Constructora Piaco](http://www.constructorapiaco.com)
+  * Responsive and informative site made with the force of [Silex](http://silex.sensiolabs.org), [Twig](http://twig.sensiolabs.org) and [SwiftMailer](http://swiftmailer.org).
+  * The frontend was made using [SASS](http://sass-lang.com) and [jQuery](https://jquery.com)
+* [Sanchez y Carvajal](http://www.sanchez-carvajal.com)
+  * This is a custom CMS made using Laravel and MySQL in the backend and CSS and jQuery in the frontend.
+* [Grupo Colono](http://www.grupocolono.com)
+  * Responsive site made with the powers of [Silex](http://silex.sensiolabs.org), [Twig](http://twig.sensiolabs.org) and [SwiftMailer](http://swiftmailer.org). This site gets their products from the external API.
+  * The frontend was made using Boostrap, jQuery, Slick and fancybox.
+* [IS Corporación](http://www.iscr.com)
+  * Responsive and informative site. I used jQuery and SASS for the UI.
