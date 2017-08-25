@@ -6,7 +6,7 @@ I'm Web Developer with 6+ years of expertise making simple and complex sites. I'
 
 ### My PHP knowledge
 
-I worked principally with PHP using Object-Oriented-Programing paradigm and Model-View-Controller pattern with:
+I've been working with PHP using Object-Oriented-Programing paradigm and Model-View-Controller pattern with:
 
 * **CMS**
   * [Drupal](https://www.drupal.org)
@@ -31,32 +31,25 @@ I worked principally with PHP using Object-Oriented-Programing paradigm and Mode
     * [Guzzle](http://docs.guzzlephp.org/en/latest)
 
 ### My JavaScript knowledge
-* **Server**
+* **Server side**
   * [NodeJS](https://nodejs.org)
     * [Socket.io](http://socket.io)
     * [Express](https://expressjs.com)
-    * [SailsJS](http://sailsjs.org)
-    * [FeathersJS](http://feathersjs.com)
 * **ORM and ODM**
   * [BookShelfJS](http://bookshelfjs.org) with [Knex](http://knexjs.org)
   * [waterline](http://waterlinejs.org/)
   * [mongoose](http://mongoosejs.com)
-* **Client**
+* **Client side**
   * [VueJS](https://vuejs.org)
-  * [AngularJS](https://angularjs.org)
   * [jQuery](https://jquery.com)
-    * [BackboneJS](http://backbonejs.org)
-    * [UnderscoreJS](http://underscorejs.org)
-
-### My Ruby knowledge
-* [Ruby on Rails](http://rubyonrails.org)
+  * [AngularJS](https://angularjs.org) (Basic)
+  * [ReactJS](https://facebook.github.io/react/) (Basic)
 
 ### Data store
 * [MariaDB](https://mariadb.org)
 * [MySQL](https://www.mysql.com)
 * [MongoDB](https://www.mongodb.com)
 * [Redis](http://redis.io)
-* [RethinkDB](https://www.rethinkdb.com)
 
 ### Developer tools and others
 * [Git](https://git-scm.com)
@@ -69,9 +62,6 @@ Here are some the projects that I worked from the scratch:
 * [Tosty Design](http://tostydesign.com)
   * This was a great project, the principal object was create a rating system for designs, each designer should uploaded their designs and the voters could vote for them. This was made with Laravel 5.1, MariaDB like DB enginer and Redis for cache.
   * The UI was made with VueJS and SASS.
-* [Basic Seats](http://www.basicseats.cr)
-  * This is a simple but strong catalog system. This was made with Laravel to manage the users, products and their categories.
-  * The frontend was made using [LESS](http://lesscss.org) and [jQuery](https://jquery.com)
 * [Constructora Piaco](http://www.constructorapiaco.com)
   * Responsive and informative site made with the force of [Silex](http://silex.sensiolabs.org), [Twig](http://twig.sensiolabs.org) and [SwiftMailer](http://swiftmailer.org).
   * The frontend was made using [SASS](http://sass-lang.com) and [jQuery](https://jquery.com)
