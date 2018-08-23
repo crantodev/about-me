@@ -59,16 +59,16 @@ I've been working with PHP using Object-Oriented-Programing paradigm and Model-V
 
 ### Projects
 Here are some the projects that I worked from the scratch:
-* [Tosty Design](http://tostydesign.com)
+* Tosty Design
   * This was a great project, the principal object was create a rating system for designs, each designer should uploaded their designs and the voters could vote for them. This was made with Laravel 5.1, MariaDB like DB enginer and Redis for cache.
   * The UI was made with VueJS and SASS.
-* [Constructora Piaco](http://www.constructorapiaco.com)
+* Constructora Piaco
   * Responsive and informative site made with the force of [Silex](http://silex.sensiolabs.org), [Twig](http://twig.sensiolabs.org) and [SwiftMailer](http://swiftmailer.org).
   * The frontend was made using [SASS](http://sass-lang.com) and [jQuery](https://jquery.com)
-* [Sanchez y Carvajal](http://www.sanchez-carvajal.com)
+* Sanchez y Carvajal
   * This is a custom CMS made using Laravel and MySQL in the backend and CSS and jQuery in the frontend.
-* [Grupo Colono](http://www.grupocolono.com)
+* Grupo Colono
   * Responsive site made with the powers of [Silex](http://silex.sensiolabs.org), [Twig](http://twig.sensiolabs.org) and [SwiftMailer](http://swiftmailer.org). This site gets their products from the external API.
   * The frontend was made using Boostrap, jQuery, Slick and fancybox.
-* [IS Corporación](http://www.iscr.com)
+* IS Corporación
   * Responsive and informative site. I used jQuery and SASS for the UI.
